@@ -14,4 +14,4 @@ A lightweight Python-based **Port Scanner** that scans for open ports on a targe
 ## 🔧 Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/port-scanner.git
+   git clone https://github.com/Ritz19balaji/port-scanner.git
